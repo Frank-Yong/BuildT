@@ -3,3 +3,4 @@ using BuildTLib;
 
 var one = new Class1();
 Console.WriteLine($"One: {one.One()}");
+Console.WriteLine($"Two: {one.Two()}");
