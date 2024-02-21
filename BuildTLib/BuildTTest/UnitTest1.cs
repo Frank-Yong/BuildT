@@ -16,5 +16,18 @@ namespace BuildTTest
             // assert
             Assert.Equal(expected, observed);
         }
+
+        [Fact]
+        public void Test2()
+        {
+            // arrange
+            var two = new Class1();
+            // act
+            var observed = two.Two();
+            var expected = 2;
+
+            // assert
+            Assert.Equal(expected, observed);
+        }
     }
 }

@@ -6,5 +6,10 @@
         {
             return 1;
         }
+
+        public int Two() 
+        { 
+            return 2; 
+        }
     }
 }
