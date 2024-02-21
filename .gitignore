@@ -1,0 +1,7 @@
+BuildTLib/.vs
+BuildTLib/BuildTCli/bin
+BuildTLib/BuildTCli/obj
+BuildTLib/BuildTLib/bin
+BuildTLib/BuildTLib/obj
+BuildTLib/BuildTTest/bin
+BuildTLib/BuildTTest/obj
