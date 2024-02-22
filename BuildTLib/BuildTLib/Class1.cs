@@ -9,7 +9,7 @@
 
         public int Two() 
         { 
-            return 4; 
+            return 2; 
         }
     }
 }
