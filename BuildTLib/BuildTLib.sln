@@ -31,7 +31,6 @@ Global
 		{EC0D180C-8272-4C5A-934A-D96114332D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC0D180C-8272-4C5A-934A-D96114332D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0D180C-8272-4C5A-934A-D96114332D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC0D180C-8272-4C5A-934A-D96114332D3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
