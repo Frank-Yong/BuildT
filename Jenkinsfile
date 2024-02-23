@@ -2,10 +2,10 @@ echo "hello world!"
 
 node {
 
-    // stage("checkout") {
-    //     bat 'dir'
-    //     git branch:'main', url:'https://github.com/Frank-Yong/BuildT.git'
-    // }
+    stage("checkout") {
+        bat 'dir'
+        git branch:'main', url:'https://github.com/Frank-Yong/BuildT.git'
+    }
     
     dir('BuildTLib') {
         stage("clean") {
