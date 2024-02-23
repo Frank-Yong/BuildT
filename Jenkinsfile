@@ -10,6 +10,7 @@ node {
             bat 'dotnet clean'
         }
         
+        // Build Stage
         stage("build") {
             bat 'dotnet build'
         }
