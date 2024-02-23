@@ -9,7 +9,7 @@ namespace BuildTLib
 
         public int Two() 
         { 
-            return 3; 
+            return 2;
         }
     }
 }
