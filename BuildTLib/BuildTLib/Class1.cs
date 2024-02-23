@@ -1,4 +1,4 @@
-﻿namespace BuildTLib
+namespace BuildTLib
 {
     public class Class1
     {
@@ -9,7 +9,7 @@
 
         public int Two() 
         { 
-            return 2; 
+            return 2;
         }
     }
 }
