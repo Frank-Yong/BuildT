@@ -1,5 +1,3 @@
-echo "hello world!"
-
 node {
 
     stage("checkout") {
