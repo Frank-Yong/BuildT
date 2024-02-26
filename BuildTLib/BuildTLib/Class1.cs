@@ -4,7 +4,7 @@ namespace BuildTLib
     {
         public int One()
         {
-            return 2;
+            return 1;
         }
 
         public int Two() 
